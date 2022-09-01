@@ -6,7 +6,7 @@
 #   epsilon and sigma: LJ parmeters in atomic units
 #   distance: distance between atoms in atomic units
 #   ulj: LJ potential in atomic units
-#   If you are no familiar with atomic units, that's okay - just treat it as some unit. Knowing atomic units is not required to finish this task.
+#   If you are not familiar with atomic units, that's okay - just treat it as some unit. Knowing atomic units is not required to finish this task.
 
 epsilon = 4.0e-4 # These are atomic units. 
 sigma = 6 # Also atomic units
