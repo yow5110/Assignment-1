@@ -2,7 +2,7 @@
 
 Debugging is one of the most important parts of computational thinking. Finding and fixing bugs (errors) is often a tedious task that requires to develop strategy and some good habits. 
 
-The Lennard-Jones potential is a useful formula to describe the interaction between two atoms of a rare gas. The potential energy of interaction of two atoms is expressed in terms of their distance as 
+The Lennard-Jones potential is a useful formula to describe the interaction between two atoms of a rare gas (like Argon). The potential energy of interaction of two atoms is expressed in terms of their distance as 
 
 <img src="https://latex.codecogs.com/gif.latex?U^{LJ}(r)=4\epsilon\left[\left(\frac{\sigma}{r}\right)^{12}-\left(\frac{\sigma}{r}\right)^{6}&space;\right&space;]" title="U^{LJ}(r)=4\epsilon\left[\left(\frac{\sigma}{r}\right)^{12}-\left(\frac{\sigma}{r}\right)^{6} \right ]" />
 
